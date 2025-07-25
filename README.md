@@ -14,7 +14,7 @@ SearchAndGo is an interactive train station map application that helps users fin
 
 ## 👨‍💻 My Role
 
-I was one of two developers responsible for building the core functionality of the app. My key contributions included:
+I was one of two main developers responsible for building the core functionality of the app. My key contributions included:
 
 - Integrating the Deutsche Bahn public API to fetch real-time data  
 - Visualizing train stations using Kivy Garden's MapView  
@@ -22,14 +22,12 @@ I was one of two developers responsible for building the core functionality of t
 
 ## 🧠 Challenges & Learnings
 
-- Parsing complex JSON data from APIs  
-- Handling UI updates with asynchronous data  
 - Managing map interactions and performance in Kivy  
 - Working under tight time constraints in a weekend hackathon  
 
 ## 🛠️ Tech Stack
 
-- Python 3  
+- Python
 - Kivy  
 - Kivy Garden MapView  
 - REST API / JSON  
@@ -41,4 +39,4 @@ I was one of two developers responsible for building the core functionality of t
 
 ## 📁 Notes
 
-The real-time departure data was retrieved via the Deutsche Bahn public API during the hackathon weekend. As the data source was temporary and hosted externally by the event organizers, the original live data is no longer available.
+The real-time departure data was retrieved via the Deutsche Bahn public API during the hackathon weekend. As the data source was temporary and hosted externally by other developers, the original live data is no longer available.
