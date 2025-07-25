@@ -1,27 +1,28 @@
 
 # SearchAndGo 🚆📍
 
-**Developed at Jugend hackt 2025**
+**Developed at Jugend hackt 2024**
 
 SearchAndGo is an interactive train station map app that helps users find nearby stations and see real-time departure information. It was built with Python and Kivy during a weekend hackathon.
 
 ## 🌟 Features
 
-- Real-time train departures using Deutsche Bahn’s public API  
-- Interactive map using `kivy_garden.mapview`  
-- Station markers with popup info  
-- Simple interface with zoom and click-to-exit
+- Interactive map with zoom functionality
+- red markers represent Deutsche Bahn train stations
+- Clicking a marker reveals the station name and upcoming departures
+- Real-time data retreved from Deutsche Bahn's public API
+- Clean user interface built with Kivy 
 
 ## 👨‍💻 Team & Roles
 
-We were a team of several participants. Only two of us focused on programming. I worked on:
-- Connecting the Deutsche Bahn API
-- Displaying the stations on a live map
-- Handling real-time data and departures
-- Designing the user interface using Kivy
-
-Other team members supported the project with research and ideas. Some external datasets used during development were removed later.
-
+I was one of two developers responsible for the programming aspects of the project.  
+We collaborated closely to implement the core functionality of the app.  
+Other team members contributed with data management, backend support, and overall project coordination.  
+My main contributions included:  
+- Integrating the Deutsche Bahn public API to fetch real-time departure data  
+- Displaying train stations on the interactive map using Kivy Garden MapView  
+- Designing and implementing the user interface with Kivy
+  
 ## 🛠️ Tech Stack
 
 - Python 3  
@@ -30,7 +31,4 @@ Other team members supported the project with research and ideas. Some external 
 - REST API / JSON  
 - Deutsche Bahn API  
 
-## 📬 Contact
 
-This project was created as part of **Jugend hackt 2025**.  
-Please contact me via GitHub or through the application email if you'd like access to more details.
