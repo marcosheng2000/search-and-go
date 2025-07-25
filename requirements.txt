@@ -1,0 +1,6 @@
+
+kivy
+kivy_garden.mapview
+requests
+deutsche_bahn_api
+pywin32
